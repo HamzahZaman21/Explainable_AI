@@ -7,7 +7,7 @@ Explainable AI
 
 
 
-ai
+The code in this House Prices - Advanced Regression Techniques where I achieved an error scoore of 0.16. However, the main purpose behind this was to understand how machine learning models make their decisions, which feature they deem important. I leverage feature importance values, The shap library, and ICE plots to accomplish this
 
 
 
